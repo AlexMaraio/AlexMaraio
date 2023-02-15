@@ -9,5 +9,5 @@ C++, feel free to have a browse of my repositories. Also have a small amount of
 experience in web development using the Flask backend and using SQL databases. 
 
 Currently looking for an internship in software development and/or data analysis
-using machine learning methods, feel free to drop me an email if you like what
-you see!
+using machine learning methods, feel free to drop me an email at maraio@roe.ac.uk
+if you like what you see!
